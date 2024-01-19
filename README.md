@@ -33,7 +33,7 @@ Data preprocessing:
 - label test data
 
 Possible solutions:
-- Linear Regression (LASSO?)
+- Linear Regression (LASSO wegen geringer schnellerer Berechnung durch geringere Anzahl an Features?)
 - Neural Network
 
 ---
