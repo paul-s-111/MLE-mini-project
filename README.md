@@ -33,7 +33,7 @@ Data preprocessing:
 - label test data
 
 Approaches:
-- Linear Regression (LASSO=?)
+- Linear Regression (LASSO?)
 - Neural Network
 
 ---
