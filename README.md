@@ -24,7 +24,17 @@ WORKING TASKS
 
 PROBLEM DEFINITION
 
-tbd
+Data preprocessing:
+- normalize feature for similar scaling (0-1)
+- hot-one encoded features for year / month / day / hours / minutes (or maybe only month / day / hours)
+- augment data by adding more features? (examples: squareroot / lagged / (other augmentations) temperature / solar radiation / (other features)
+- add new features by combination of different features
+- reduce features? (--> with LASSO regression)
+- label test data
+
+Approaches:
+- Linear Regression (LASSO=?)
+- Neural Network
 
 ---
 
