@@ -32,13 +32,13 @@ Data preprocessing:
 - reduce features? (--> with LASSO regression)
 - label test data
 
-Approaches:
+Possible solutions:
 - Linear Regression (LASSO?)
 - Neural Network
 
 ---
 
-SOLUTIONS
+SOLUTION
 
 tbd
 
