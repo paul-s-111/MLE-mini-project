@@ -22,7 +22,7 @@ WORKING TASKS
 
 ---
 
-PROBLEM DEFINITION
+APPROACH 
 
 Data preprocessing:
 - normalize feature for similar scaling (0-1)
