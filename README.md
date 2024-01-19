@@ -13,12 +13,12 @@ More information at keggle: https://www.kaggle.com/competitions/machine-learning
 ---
 
 WORKING TASKS
-1. Define problem
-2. Search for approaches to tackle problem
-3. Define most promising solution
-4. Code & evaluate solution
-6. if solution superior to benchmark: DONE
-   else: go back to step 3
+1. Define basic approach
+2. Define most promising solution
+3. Code & evaluate solution
+4. if solution superior to benchmark: DONE
+
+   else: go back to step 2
 
 ---
 
