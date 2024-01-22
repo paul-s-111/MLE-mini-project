@@ -26,7 +26,7 @@ APPROACH
 
 Data preprocessing:
 - normalize features for similar scaling (0-1)
-- hot-one encoded features for year / month / day / hours / minutes (or maybe only month / day / hours)
+- hot-one encoded features for year / month / day / hours (or maybe only month / day / hours)
 - augment data by adding more features? (examples: squareroot / lagged / (other augmentations) of temperature / solar radiation / (other features)
 - add new features by combination of different features
 - reduce features? (--> with LASSO regression)
